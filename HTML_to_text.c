@@ -57,8 +57,7 @@ int main()
 }
 
 int get_content(struct text_block *input)
-/* Function gets a dynamically allocated block of text and
- * uses the find_state function to get assign that block a type
+/* Function gets a dynamically allocated block of text 
  * 
  * Param: a pointer to the struct text block
  * Return: END if EOF is reached, otherwise CONT
