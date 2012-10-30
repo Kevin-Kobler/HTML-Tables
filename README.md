@@ -7,7 +7,7 @@ be used in order to create a more user friendly interface.
 	-UNIX will be the backbone of the system, holding the file that
 	 contains all the information for the table.
 
-	-C code processing information from a table, modifing the data file
+	-C code will process information from a table, modifing the data file
 	 containg that information and creating an HTML table.
 
 	-CGI will connect the webrequest and C code.
