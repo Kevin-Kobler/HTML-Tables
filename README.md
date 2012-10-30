@@ -4,7 +4,7 @@ modified and updated by the owner with ease.
 The structure of this project will mainly be C/CGI/UNIX, some JavaScript will
 be used in order to create a more user friendly interface.
 
-	-UNIX being the backbone of the system, holding the file that
+	-UNIX will be the backbone of the system, holding the file that
 	 contains all the information for the table.
 
 	-C code processing information from a table, modifing the data file
@@ -13,6 +13,7 @@ be used in order to create a more user friendly interface.
 	-CGI will connect the webrequest and C code.
 
 TODO:
+	
 	Create a program, table_to_HTML, that converts data from -- csv, tsv or
 	any sort of delimited text file -- to an HMTL Table.
 	
@@ -24,5 +25,6 @@ TODO:
 	Write JavaScript to make the website spiffy.
 
 EXTRAS:
+	
 	Create a program, HTML_to_table, that takes data from an HTML page
         and creates a tsv file.
